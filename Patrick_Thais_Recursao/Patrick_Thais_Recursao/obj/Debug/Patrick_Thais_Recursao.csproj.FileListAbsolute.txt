@@ -1,0 +1,6 @@
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\bin\Debug\Patrick_Thais_Recursao.exe.config
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\obj\Debug\Patrick_Thais_Recursao.csprojResolveAssemblyReference.cache
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\bin\Debug\Patrick_Thais_Recursao.exe
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\bin\Debug\Patrick_Thais_Recursao.pdb
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\obj\Debug\Patrick_Thais_Recursao.exe
+C:\Users\patrick.costa\Desktop\Patrick_Thais_Recursao\Patrick_Thais_Recursao\obj\Debug\Patrick_Thais_Recursao.pdb
